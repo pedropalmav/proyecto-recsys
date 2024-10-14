@@ -1,6 +1,5 @@
 import os
 import json
-from functools import reduce
 
 class MostPopular:
     def __init__(self, data):
