@@ -1,4 +1,4 @@
-# Fine tuning LLMs for Conversational Sequence Recommendation
+# Fine tuning LLMs for Conversational Recommender Systems
 
 Nuestra investigación se basa en los siguientes papers:
 - [LLM Redial](https://aclanthology.org/2024.findings-acl.529.pdf): dataset de entrenamiento
